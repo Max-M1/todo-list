@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: 'https://Max-M1.github.io/todo-list',
   supportedLocales: {
   "en-US": ""
 },
