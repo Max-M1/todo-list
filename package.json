@@ -7,7 +7,7 @@
     "start": "ng serve",
     "build": "ng build",
     "predeploy": "npm run build", 
-    "deploy": "gh-pages -d dist/browser",
+    "deploy": "gh-pages -d dist/todo-list",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:todo-list": "node dist/todo-list/server/server.mjs"
